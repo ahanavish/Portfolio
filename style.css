@@ -1,0 +1,80 @@
+
+body{
+  background-color: #171717;
+  text-align: center;
+}
+.profile{
+    padding-top: 60px;
+    height: 220px;
+    width: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+.intro{
+  color: white;
+  background-color: #1A1A1B;
+  height: 560px;
+  margin-top: 50px;
+}
+.about{
+  color: white;
+  background-color: #1A1A1B;
+  height: 500px;
+  margin-top: 50px;
+}
+.hello{
+  font-size: 45px;
+  font-family: 'Oooh Baby', cursive;
+  margin: 20px;
+  margin-bottom: 0;
+  margin-top: 50px;
+  padding-top: 20px;
+}
+.mail{
+  filter: brightness(0) invert(1);
+  height: 29px;
+  position: absolute;
+  margin-left: -100px;
+}
+.linkedin{
+  filter: brightness(0) invert(1);
+  height: 25px;
+  position: absolute;
+  margin-left: -50px;
+  margin-top: 1px;
+}
+.github{
+  filter: brightness(0) invert(1);
+  height: 25px;
+  position: absolute;
+  margin-left: -10px;
+  margin-top: 2px;
+}
+.twitter{
+  filter: brightness(0) invert(1);
+  height: 26px;
+  position: absolute;
+  margin-left: 32px;
+  margin-top: 3px;
+}
+.code{
+  filter: brightness(0) invert(1);
+  height: 25px;
+  position: absolute;
+  margin-left: 76px;
+  margin-top: 2px;
+}
+.name{
+  font-size: 40px;
+  font-family: 'Abel', sans-serif;
+  margin: 10px;
+  padding-bottom: 20px;
+}
+.line{
+  background-color: #444444;
+  width: 3%;
+  border-style: none;
+  height: 1px;
+  margin-bottom: 25px;
+}
