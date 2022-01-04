@@ -4,8 +4,8 @@ body{
   text-align: center;
 }
 .profile{
-    padding-top: 60px;
-    height: 220px;
+    padding-top: 50px;
+    height: 260px;
     width: 200px;
     border-radius: 100px;
     -webkit-border-radius: 100px;
@@ -14,8 +14,8 @@ body{
 .intro{
   color: white;
   background-color: #1A1A1B;
-  height: 560px;
-  margin-top: 50px;
+  height: 510px;
+  margin-top: 0;
 }
 .about{
   color: white;
@@ -26,10 +26,10 @@ body{
 .hello{
   font-size: 45px;
   font-family: 'Oooh Baby', cursive;
-  margin: 20px;
+  margin: 10px;
   margin-bottom: 0;
-  margin-top: 50px;
-  padding-top: 20px;
+  margin-top: 25px;
+  padding-top: 2px;
 }
 .mail{
   filter: brightness(0) invert(1);
@@ -68,13 +68,12 @@ body{
 .name{
   font-size: 40px;
   font-family: 'Abel', sans-serif;
-  margin: 10px;
-  padding-bottom: 20px;
+  margin: 0px;
+  padding-bottom: 10px;
 }
 .line{
-  background-color: #444444;
+  background-color: white;
   width: 3%;
   border-style: none;
-  height: 1px;
-  margin-bottom: 25px;
+  margin: 10px auto 25px auto;
 }
